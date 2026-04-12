@@ -1,7 +1,7 @@
 # PAB-for-ECCV26-Workshop-Track4
 [AICity'26] ECCV'26 Workshop Track 4 – Text-Based Person Re-Identification
 
-**The PAB dataset for ECCV'26 Workshop Track4 is released at [Baidu Yun](https://pan.baidu.com/s/1pGrfY9QmKa7iYLkqxUkLCw?pwd=ahgc) [ahgc] and [OneDrive]().**
+**The PAB dataset for ECCV'26 Workshop Track4 is released at [Baidu Yun](https://pan.baidu.com/s/1pGrfY9QmKa7iYLkqxUkLCw?pwd=ahgc) [ahgc] and [OneDrive](https://1drv.ms/f/c/afc02d7952f9b34d/IgBed52KfaZsSJk4hVBE5Pv3AbfbaQstnDODAH0RDDzZUJ4?e=uSUnKu).**
 
 For the name-masked test set, we have:
 
