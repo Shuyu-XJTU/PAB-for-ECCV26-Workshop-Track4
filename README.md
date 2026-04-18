@@ -13,6 +13,6 @@ For the name-masked test set, we have:
 
 3. Re-ordered the query. We also provide the query-name-only list for the competitor as 'query_index.txt'.
 
-4. Provided a submission example answer.txt. Each line of answer.txt is the file name of the top 10 retrieved images for each query in query_index.txt.
-
+4. Provided a submission example answer.txt.
+   Each line of answer.txt is the file name of the top 10 retrieved images for each query in query_index.txt.
 ```
